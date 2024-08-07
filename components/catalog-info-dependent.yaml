@@ -24,8 +24,8 @@ spec:
   owner: change-value
   lifecycle: experimental
 #  system: Demo
-dependsOn: 
-    - component:default/snehal-workshop-service
+ dependsOn: 
+     - component:default/snehal-workshop-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
