@@ -21,7 +21,7 @@ metadata:
     - snehal-workshop-1
 spec:
   type: service
-  owner: change-value
+  owner: snehal-workshop
   lifecycle: experimental
 #  system: Demo
   dependsOn: 
